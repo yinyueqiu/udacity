@@ -11,9 +11,11 @@
 from prep_terrain_data import makeTerrainData
 from class_vis import prettyPicture, output_image
 #from ClassifyNB import classify
+#from ClassifySVM import classify
 #from ClassifyDT import classify
-#from ClassifyAdaBoost import classify
-from ClassifyRandomForest import classify
+from ClassifyAB import classify
+#from ClassifyRF import classify
+#from ClassifyKN import classify
 
 import numpy as np
 import pylab as pl
