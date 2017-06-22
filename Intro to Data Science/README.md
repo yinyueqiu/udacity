@@ -1,7 +1,7 @@
 # Udacity Intro to Data Science
 
 ## Table of Contents
-  1. Introduction
+  1. Introduction                             --100% completed
   2. Problem Set 1: Titanic Survivor Data
   3. Data Wrangling
   4. Problem Set 2: Wrangling Subway Data
